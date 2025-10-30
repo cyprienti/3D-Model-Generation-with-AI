@@ -1,15 +1,15 @@
-# 🎨 Creative 3D Generator
+#  Creative 3D Generator
 
 An interactive web tool that allows you to generate **3D models** from:
-- ✏️ Freehand sketches
-- 🖼️ Uploaded PNG images
-- 📝 Natural language prompts
+-  Freehand sketches
+-  Uploaded PNG images
+-  Natural language prompts
 
 The tool uses the [Generio API](https://generio.ai) to convert your input into 3D content and display it directly in the browser.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Sketch directly on a canvas
 - Upload an image as input
@@ -19,7 +19,7 @@ The tool uses the [Generio API](https://generio.ai) to convert your input into 3
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Component   | Technology                 |
 |-------------|-----------------------------|
@@ -34,13 +34,13 @@ The tool uses the [Generio API](https://generio.ai) to convert your input into 3
 
 ## 🔧 Setup Instructions
 
-1. 📦 Create and activate virtual environment:
+1.  Create and activate virtual environment:
 ```bash
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 ```
 
-2. 🧱 Install dependencies:
+2.  Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -49,5 +49,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
 
 
