@@ -32,7 +32,7 @@ The tool uses the [Generio API](https://generio.ai) to convert your input into 3
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 1.  Create and activate virtual environment:
 ```bash
@@ -49,6 +49,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
 
 
 
